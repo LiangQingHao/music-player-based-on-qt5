@@ -1,1 +1,1 @@
-# music-player-based-on-qt5
+#基于QT5的C++音乐播放器
